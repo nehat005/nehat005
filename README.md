@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
-<h3 align="center">A passionate AI engineer working from development to deployment of projects for your customer needs!</h3>
+<h3 align="center">A passionate AI engineer, with varied background from Computer Vision to Speech Processing and Signal Processing. Specializing to create prototypes as a proof of concept, and later deploy them over cloud!</h3>
 
 - 🔭 I’m currently working on **Speaker Diarization**
 
