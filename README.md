@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">A passionate AI engineer, with varied background from Computer Vision to Speech Processing and Signal Processing. Specializing to create prototypes as a proof of concept, and later deploy them over cloud!</h3>
 
-- 🔭 I’m currently working on **Image Recognition**
+- 🔭 I’m currently working on **Image Recognition, Regex in Python**
 
 - 🌱 I’m currently learning **Flutter, ETL and Data Pipelines with Shell, Airflow and Kafka, Introduction to Data Engineering, MLOps (Machine Learning Operations) Fundamentals**
 
