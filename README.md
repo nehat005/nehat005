@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Image Recognition, Regex in Python**
 
-- 🌱 I’m currently learning **Flutter, ETL and Data Pipelines with Shell, Airflow and Kafka, Introduction to Data Engineering, MLOps (Machine Learning Operations) Fundamentals**
+- 🌱 I’m currently learning **ETL and Data Pipelines with Shell, Airflow and Kafka, Introduction to Data Engineering, MLOps (Machine Learning Operations) Fundamentals and Virtualization**
 
-- 👯 I’m looking to collaborate on **ML-based industrial projects**
+- 👯 I’m looking to collaborate on **ML-based prototype projects for image data and speech data**
 
 - 📫 How to reach me **nehat005@gmail.com**
 
